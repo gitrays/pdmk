@@ -8,7 +8,8 @@ This package can help users to make decision to identify the wants and needs.
 
 ## Code Example
 ```
-#Install the devtools 
+#Install the devtools and load the devtools package
+install.packages("devtools")
 library(devtools)
 
 #Install the package to your computer
